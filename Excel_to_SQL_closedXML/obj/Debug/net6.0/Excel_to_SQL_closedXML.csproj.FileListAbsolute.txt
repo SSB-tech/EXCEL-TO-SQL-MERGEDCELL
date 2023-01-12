@@ -1,0 +1,92 @@
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.csproj.AssemblyReference.cache
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.AssemblyInfoInputs.cache
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.AssemblyInfo.cs
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.csproj.CoreCompileInputs.cache
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\appsettings.json
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Excel_to_SQL_closedXML.exe
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Excel_to_SQL_closedXML.deps.json
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Excel_to_SQL_closedXML.runtimeconfig.json
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Excel_to_SQL_closedXML.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Excel_to_SQL_closedXML.pdb
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Dapper.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Irony.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\XLParser.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets\msbuild.Excel_to_SQL_closedXML.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets\msbuild.build.Excel_to_SQL_closedXML.props
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Excel_to_SQL_closedXML.props
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Excel_to_SQL_closedXML.props
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\scopedcss\bundle\Excel_to_SQL_closedXML.styles.css
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.csproj.CopyComplete
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\refint\Excel_to_SQL_closedXML.dll
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.pdb
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.genruntimeconfig.cache
+C:\Users\basne\source\repos\Excel_to_SQL_closedXML\Excel_to_SQL_closedXML\obj\Debug\net6.0\ref\Excel_to_SQL_closedXML.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\appsettings.Development.json
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\appsettings.json
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Excel_to_SQL_closedXML.exe
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Excel_to_SQL_closedXML.deps.json
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Excel_to_SQL_closedXML.runtimeconfig.json
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Excel_to_SQL_closedXML.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Excel_to_SQL_closedXML.pdb
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\ClosedXML.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Dapper.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Irony.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\XLParser.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.csproj.AssemblyReference.cache
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.AssemblyInfoInputs.cache
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.AssemblyInfo.cs
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.csproj.CoreCompileInputs.cache
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.MvcApplicationPartsAssemblyInfo.cs
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.MvcApplicationPartsAssemblyInfo.cache
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets\msbuild.Excel_to_SQL_closedXML.Microsoft.AspNetCore.StaticWebAssets.props
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets\msbuild.build.Excel_to_SQL_closedXML.props
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Excel_to_SQL_closedXML.props
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Excel_to_SQL_closedXML.props
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets.pack.json
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets.build.json
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\staticwebassets.development.json
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\scopedcss\bundle\Excel_to_SQL_closedXML.styles.css
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.csproj.CopyComplete
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\refint\Excel_to_SQL_closedXML.dll
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.pdb
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\Excel_to_SQL_closedXML.genruntimeconfig.cache
+D:\5. EXCEL_TO_CLOSED_XML(MERGED CELL)\Excel_to_SQL_closedXML\obj\Debug\net6.0\ref\Excel_to_SQL_closedXML.dll

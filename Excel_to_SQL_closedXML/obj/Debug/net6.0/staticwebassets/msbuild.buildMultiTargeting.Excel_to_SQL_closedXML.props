@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Excel_to_SQL_closedXML.props" />
+</Project>

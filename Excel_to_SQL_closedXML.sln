@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel_to_SQL_closedXML", "Excel_to_SQL_closedXML\Excel_to_SQL_closedXML.csproj", "{8814AE09-C69F-4D0C-9A74-D72A1FD4C5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8814AE09-C69F-4D0C-9A74-D72A1FD4C5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8814AE09-C69F-4D0C-9A74-D72A1FD4C5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8814AE09-C69F-4D0C-9A74-D72A1FD4C5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8814AE09-C69F-4D0C-9A74-D72A1FD4C5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED09BDA7-B80B-4B54-A231-915EA02682BE}
+	EndGlobalSection
+EndGlobal
